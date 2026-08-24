@@ -169,6 +169,9 @@
   "https://raw.githubusercontent.com/Gin-7/dsh-pet-remielle/main/assets/screenshot-waiting.png",
   "https://raw.githubusercontent.com/Gin-7/dsh-pet-remielle/main/assets/screenshot-priding.png"
  ],
+ "https://github.com/HaoyueQin/dsh-better-reasoning-effort": [
+  "https://raw.githubusercontent.com/HaoyueQin/dsh-better-reasoning-effort/master/docs/market-card.png"
+ ],
  "https://github.com/Isilsolme/dsh-splash-launcher": [
   "https://raw.githubusercontent.com/Isilsolme/dsh-splash-launcher/main/docs/screenshots/splash-light.png",
   "https://raw.githubusercontent.com/Isilsolme/dsh-splash-launcher/main/docs/screenshots/splash-drawing.png",
@@ -1212,5 +1215,18 @@
   "https://raw.githubusercontent.com/lunaship/dsh-links/main/docs/images/android-navigation-drawer.jpg",
   "https://raw.githubusercontent.com/lunaship/dsh-links/main/docs/images/android-workspace-light.jpg",
   "https://raw.githubusercontent.com/lunaship/dsh-links/main/docs/images/android-workspace-dark.jpg"
+ ],
+ "https://github.com/qinyre/dsh-plugin-install": [
+  "https://raw.githubusercontent.com/qinyre/dsh-plugin-install/main/docs/images/screenshot-install.png"
+ ],
+ "https://github.com/qinyre/dsh-plugin-capabilities": [
+  "https://raw.githubusercontent.com/qinyre/dsh-plugin-capabilities/main/docs/images/screenshot-skills.png",
+  "https://raw.githubusercontent.com/qinyre/dsh-plugin-capabilities/main/docs/images/screenshot-mcp.png",
+  "https://raw.githubusercontent.com/qinyre/dsh-plugin-capabilities/main/docs/images/screenshot-market-skills.png",
+  "https://raw.githubusercontent.com/qinyre/dsh-plugin-capabilities/main/docs/images/screenshot-market-mcp.png"
+ ],
+ "https://github.com/qinyre/dsh-plugin-atlas": [
+  "https://raw.githubusercontent.com/qinyre/dsh-plugin-atlas/main/docs/images/screenshot-rail.png",
+  "https://raw.githubusercontent.com/qinyre/dsh-plugin-atlas/main/docs/images/screenshot-archive.png"
  ]
 }
